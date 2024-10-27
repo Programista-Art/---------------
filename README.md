@@ -1,6 +1,11 @@
-[EN]
+## [EN]
 Calculating the resistance of an electrical circuit consisting of two resistors example in Delphi 12
-[PL]
+## [PL]
 Obliczanie rezystancji obwodu elektrycznego składającego się z dwóch rezystorów, przykład w Delphi 12
-[RU]
+## [RU]
 Вычисление сопротивления электрической цепи, состоящей из двух резисторов пример в Delphi 12
+
+![alt](img/1.png)
+
+
+
